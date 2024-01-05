@@ -1,7 +1,8 @@
 repo_name: patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python
 report_id: 519d1f3525e6274a9157e8e724a4efb0
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T20:26:28+00:00'
+timestamp: '2024-01-05T08:28:32+00:00'
 requested_by: iamontheinet
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python/blob/main/setup.sql
   detection_source: setup.sql
   last_updated_by: Dash Desai
   last_updated_on: 2023-02-13 19:15:52.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: Dash Desai
   last_updated_on: 2023-04-18 22:46:54.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: Dash Desai
   last_updated_on: 2023-04-18 22:46:54.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python
   detection_source: Repo Metadata
 - name: scikit-learn
   description: Easy-to-use and general-purpose machine learning in Python
@@ -79,7 +86,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
-  detection_source_url: github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python/blob/main/environment.yml
+  detection_source_url: https://github.com/patrickhaley/sfguide-getting-started-dataengineering-ml-snowpark-python/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: Dash Desai
   last_updated_on: 2023-04-18 22:46:54.000000000 Z
